@@ -13,6 +13,15 @@ The workshop will run with a single, half a day, session covering the following 
 - Machine Learning for Software Engineering, Medicine, Climate, Environmental, and Applied Physics;
 - Machine Learning for innovative business models.
 
+## Key dates and information
+
+- **Paper submission deadline:** March 7, 2025
+- **Decision to authors:** April 20, 2025
+- **Camera ready papers due:** May 8, 2025
+- **Registration and payment ends (hard deadline):** May 8, 2025
+- **Submission website:** [iccsa](https://ess.iccsa.org/cgi-bin/login.py)
+
+
 ## Credits
 
 Webpage project based on the [alshedivat/al-folio](https://github.com/alshedivat/al-folio) template.
