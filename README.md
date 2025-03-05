@@ -15,7 +15,7 @@ The workshop will run with a single, half a day, session covering the following 
 
 ## Key dates and information
 
-- **Paper submission deadline:** March 7, 2025
+- **Paper submission deadline:** March 7, 2025 extended to April 4, 2025
 - **Decision to authors:** April 20, 2025
 - **Camera ready papers due:** May 8, 2025
 - **Registration and payment ends (hard deadline):** May 8, 2025
