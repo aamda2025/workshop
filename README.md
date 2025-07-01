@@ -21,6 +21,7 @@ The workshop will run with a single, half a day, session covering the following 
 - **Registration and payment ends (hard deadline):** May 8, 2025
 - **Submission website:** [iccsa](https://ess.iccsa.org/cgi-bin/login.py)
 
+[Contributions](./contributions.md)
 
 ## Credits
 
