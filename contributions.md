@@ -1,8 +1,12 @@
 Accepted papers at the AAMDA 2025 workshop.
 
 Authors | Title 
+---|---
 Nail Taşgetiren, Ilgın Şafak, and Mehmet Aktaş | Aging-Based Weighting for Session Classification in User Behavior Analysis
 Luca Giommi, Giovanni Savarese, Gioacchino Vino, Domingo Ranieri, Alessandro Costantini, and Giacinto Donvito | Improving the Cloud Provider Ranking in the INDIGO PaaS Orchestration System using AI Techniques
+
+
+
 
 Laura Claudia Verdesca, Elisabetta Ronchieri, and Alessandro Costantini|Artificial Intelligence for Detecting Cultural Heritage Issues on Overtourism Literature: a Topic Modeling Application
 Venus Samawi, Suhad A. Yousif, Nadia AlSaidi, and Yeliz Karaca|Towards Smarter Vegetation Health Clustering: Insights from Fractal Dimension, NDVI, and LST Metrics Derived Via Remote Sensing Landsat Dataset
