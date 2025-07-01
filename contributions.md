@@ -1,4 +1,4 @@
-Accepted papers at the AAMDA 2025 workshop.
+Contributions at the AAMDA 2025 workshop.
 
 Authors|Title 
 ---|---
